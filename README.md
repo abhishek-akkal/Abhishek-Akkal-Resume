@@ -26,8 +26,7 @@ This project is a simple and clean resume website created using only HTML. The g
 
 ## 🌐 Live Demo
 
-[View Website]([https://your-username.github.io/repo-name/](https://abhishek-akkal.github.io/Abhishek-Akkal-Resume/))
-
+[View Website](https://abhishek-akkal.github.io/Abhishek-Akkal-Resume/)
 
 ## 📌 Future Improvements
 
