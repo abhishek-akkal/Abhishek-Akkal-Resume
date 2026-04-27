@@ -22,7 +22,7 @@ This project is a simple and clean resume website created using only HTML. The g
 ## 📁 Projects Included
 
 - **Tic Tac Toe Game (HTML, CSS, JavaScript)** – An interactive 2-player Tic Tac Toe game featuring turn-based logic, reset functionality, and responsive design.
-- **Amazon Clone (UI)** – A responsive e-commerce user interface inspired by Amazon, featuring a navigation bar, product sections, and structured layout.
+- **Amazon Clone (HTML, CSS)** – A responsive e-commerce user interface inspired by Amazon, featuring a navigation bar, product sections, and structured layout.
 - **Wikipedia Clone (HTML)** – A simple Wikipedia-style page demonstrating the use of HTML tables and entities to display structured data.
 - **User Registration Form (HTML)** – A user registration form with multiple input fields and basic validation using HTML attributes, including email format and required fields.
 
