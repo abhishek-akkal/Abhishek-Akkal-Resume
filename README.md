@@ -8,21 +8,23 @@ This project is a simple and clean resume website created using only HTML. The g
 
 ## 🛠️ Tech Stack
 
-* HTML
+- HTML
 
 ## 📂 Features
 
-* Clean and structured resume layout
-* About Me section
-* Skills section
-* Projects section with descriptions and links
-* Learning Journey section
-* Contact links (Email, LinkedIn, GitHub, X)
+- Clean and structured resume layout
+- About Me section
+- Skills section
+- Projects section with descriptions and links
+- Learning Journey section
+- Contact links (Email, LinkedIn, GitHub, X)
 
 ## 📁 Projects Included
 
-* **Amazon Clone (UI)** – Built using HTML & CSS with responsive layout and structured design
-* **Wikipedia Clone (HTML)** – Created using HTML with tables and entities demonstration
+- **Tic Tac Toe Game (HTML, CSS, JavaScript)** – An interactive 2-player Tic Tac Toe game featuring turn-based logic, reset functionality, and responsive design.
+- **Amazon Clone (UI)** – A responsive e-commerce user interface inspired by Amazon, featuring a navigation bar, product sections, and structured layout.
+- **Wikipedia Clone (HTML)** – A simple Wikipedia-style page demonstrating the use of HTML tables and entities to display structured data.
+- **User Registration Form (HTML)** – A user registration form with multiple input fields and basic validation using HTML attributes, including email format and required fields.
 
 ## 🌐 Live Demo
 
@@ -30,9 +32,9 @@ This project is a simple and clean resume website created using only HTML. The g
 
 ## 📌 Future Improvements
 
-* Add more projects
-* Improve styling with CSS
-* Add interactivity using JavaScript
+- Add more projects
+- Improve styling with CSS
+- Add interactivity using JavaScript
 
 ---
 
