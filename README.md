@@ -39,3 +39,9 @@ This project is a simple and clean resume website created using only HTML. The g
 ---
 
 ⭐ This project represents my learning journey and continuous improvement in web development.
+
+---
+
+## 👨‍💻 Author
+
+Abhishek Akkal
